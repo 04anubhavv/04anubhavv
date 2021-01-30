@@ -1,5 +1,3 @@
-[![Social banner for 04anubhavv](https://github.com/04anubhavv/04anubhavv/raw/master/confetti.jpg)](https://k4anubhav.me)
-
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Anubhav.
