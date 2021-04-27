@@ -9,7 +9,7 @@ I'm Anubhav.
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Java and Python and C. :laughing: Yes i all three
+- 🌱 I’m currently learning _, _ 🐱
 - 👯 I’m looking to collaborate on something interesting
 - 📫 How to reach me: <p><a href="https://www.instagram.com/k4anubhav/">Instagram</a> or <a href="https://t.me/k4anubhav">Telegram</a> </p>
 - ⚡ Fun fact: I am not a cat lover
